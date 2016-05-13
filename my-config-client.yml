@@ -1,4 +1,4 @@
 ---
 spring:
-  application.name: demo-config
+  application.name: my-config-client
 hello.message: World Of Config
